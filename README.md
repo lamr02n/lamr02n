@@ -24,7 +24,3 @@ I'm **Manuel**, a Master's student specializing in IT Security, passionate about
 
 - **Strength & endurance training:** For mental clarity and physical strength
 - Always eager to learn and try new things
-
-## Contact
-
-- [GitHub](https://github.com/lamr02n)
