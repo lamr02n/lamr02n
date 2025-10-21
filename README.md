@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi there!
 
-<!--
-**lamr02n/lamr02n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Manuel**, a Master's student specializing in IT Security, passionate about technology, continuous learning, and building secure, practical solutions.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Master's student in IT Security**  
+- **HiWi @ hamstring** (former heiDGAF)
+
+## Skills
+
+- **Languages:** Python (proficient), SQL, basics in C++, SwiftUI, Java/Kotlin
+- **Technologies:** Docker, ClickHouse, Grafana
+- **Interests:** Cybersecurity, Networking, solving everyday life tasks with tech
+
+## What I'm Up To
+
+- Exploring various tech stacks for personal projects, e.g. a personal finance planner
+- Currently diving into Rust for systems programming
+- Keeping up-to-date with security trends and best practices
+- Engaging in technical reading and knowledge sharing
+
+## Hobbies
+
+- **Strength & endurance training:** For mental clarity and physical strength
+- Always eager to learn and try new things
+
+## Contact
+
+- [GitHub](https://github.com/lamr02n)
