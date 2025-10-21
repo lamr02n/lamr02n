@@ -23,4 +23,5 @@ I'm **Manuel**, a Master's student specializing in IT Security, passionate about
 ## Hobbies
 
 - **Strength & endurance training:** For mental clarity and physical strength
+- **Being in nature:** Love hiking and spending time outdoors
 - Always eager to learn and try new things
